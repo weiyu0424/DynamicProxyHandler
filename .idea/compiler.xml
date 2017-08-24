@@ -25,8 +25,8 @@
         <module name="DynamicProxyHandler" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DynamicProxyHandler" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="DynamicProxyHandler" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
